@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Genom Kernel 4.9 by rama982 @ telegram
+kernel.string=DAB Kernel by @hiteshhv / @DABKERNEL
 do.devicecheck=1
 do.modules=0
 do.cleanup=1

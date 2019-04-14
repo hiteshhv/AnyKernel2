@@ -1,8 +1,8 @@
-NAME ?= Genom
+NAME ?= DAB-KERNEL
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
-CODE := AOSP-4.9-vince
+CODE := 4.9
 
 ZIP := $(NAME)-$(CODE)-$(DATE).zip
 
